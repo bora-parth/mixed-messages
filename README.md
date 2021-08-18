@@ -5,7 +5,7 @@ This is a program to create a random message that predicts your future. I create
 
 ## Table of Contents
 * [General Information](##generalinformation)
-* [Technologies]
+* [Technologies](##technologies)
 
 ## Technologies
 * Javascript
